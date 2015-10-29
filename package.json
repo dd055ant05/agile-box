@@ -10,8 +10,7 @@
     "zombie": "^4.2.1"
   },
   "devDependencies": {
-    "mocha": "^2.3.3",
-    "zombie": "^4.2.1"
+    "mocha": "^2.3.3"
   },
   "scripts": {
     "test": "mocha --reporter spec --recursive"
